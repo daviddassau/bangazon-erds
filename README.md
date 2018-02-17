@@ -8,3 +8,6 @@ https://drive.google.com/file/d/1LpsUDxC6yEydYACdiwiGCNZ-cTwQuhxL/view?usp=shari
 
 - A department has an expense budget
 https://drive.google.com/file/d/1QBbBrLJIPdXupJ21tTe3ePO_DJR7BQz6/view?usp=sharing
+
+- Track when a computer was purchased by the company
+https://drive.google.com/file/d/1J2xz1xLHBYyG9r19gUJFdYIGj9FDcU8P/view?usp=sharing
